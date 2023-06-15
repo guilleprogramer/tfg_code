@@ -1,4 +1,4 @@
-# tfg_code
+# TFG CODE
 
 In this code you can see the scripts used for the project.
 
